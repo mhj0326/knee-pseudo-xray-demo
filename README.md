@@ -7,9 +7,9 @@
 ## ▶️ 바로 실행하기 (Colab)
 
 아래 배지를 누르면 코랩에서 노트북이 열립니다.
-(배지 링크의 `YOUR_GITHUB_USERNAME` 을 이 레포 주인의 깃허브 아이디로 바꾸세요.)
+(배지 링크의 `mhj0326` 을 이 레포 주인의 깃허브 아이디로 바꾸세요.)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/knee-pseudo-xray-demo/blob/main/knee_pseudo_xray.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhj0326/knee-pseudo-xray-demo/blob/main/knee_pseudo_xray.ipynb)
 
 노트북을 열면 **런타임 → 모두 실행** 을 누르세요. 첫 셀의 `GITHUB_USER` 만 바꾸면 됩니다.
 
